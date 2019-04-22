@@ -1,0 +1,3 @@
+一个爬虫脚本
+使用selenium模拟chrome访问需要登录的页面，使用原本的缓存Cookie
+然后获取页面数据取得图片的url，使用requests下载
